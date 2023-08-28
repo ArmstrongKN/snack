@@ -1,0 +1,33 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~48.0.18",
+    "expo-status-bar": "~1.4.4",
+    "react": "18.2.0",
+    "react-native": "0.71.8",
+    "@expo/vector-icons": "^13.0.0",
+    "react-native-paper": "4.9.2",
+    "@expo-google-fonts/dev": "*",
+    "@expo-google-fonts/abel": "*",
+    "@expo-google-fonts/acme": "*",
+    "@expo-google-fonts/alef": "*",
+    "@expo-google-fonts/asap": "*",
+    "@expo-google-fonts/asul": "*",
+    "@expo-google-fonts/cabin": "*",
+    "@expo-google-fonts/cairo": "*",
+    "@expo-google-fonts/inter": "*",
+    "@expo-google-fonts/aladin": "*",
+    "@expo-google-fonts/aboreto": "*",
+    "@expo-google-fonts/bangers": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
